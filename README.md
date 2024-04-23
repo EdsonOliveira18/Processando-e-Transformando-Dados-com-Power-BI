@@ -8,7 +8,7 @@ Este repositório contém o passo a passo para o desafio de projeto do módulo 3
    - Criei uma instância na plataforma Azure para hospedar o banco de dados MySQL.
 
 2. **Criação do Banco de Dados:**
-   - Utilizei a base de dados disponível no [GitHub](link_do_repositorio) para criar o banco de dados no MySQL.
+   - Utilizei a base de dados disponível no [GitHub](https://github.com/EdsonOliveira18/power_bi_analyst_sample/tree/b010c1874a183a0fb4b831e76dc68b9b872becec/M%C3%B3dulo%203) para criar o banco de dados no MySQL.
 
 3. **Integração do Power BI com MySQL:**
    - Configurei a integração do Power BI com o banco de dados MySQL hospedado na Azure.
